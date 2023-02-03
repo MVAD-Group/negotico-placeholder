@@ -3,8 +3,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'daily-dev-tips': "#F89283"
-      }
+        'negotico-gold': "#D99619"
+      },
+      backgroundImage: {
+        'gold-dark-mesh': "url('/gold-dark-mesh.svg')",
+      },
     },
   },
   variants: {
